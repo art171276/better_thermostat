@@ -50,20 +50,20 @@ input_boolean:
 input_number:
   internal_sensor:
     name: Internal Sensor
-    min: 5
-    max: 35
+    min: 15
+    max: 28
     step: 0.1
     initial: 20
   internal_sensor2:
     name: Internal Sensor2
-    min: 5
-    max: 35
+    min: 15
+    max: 28
     step: 0.1
     initial: 20
   internal_sensor3:
     name: Internal Sensor2
-    min: 5
-    max: 35
+    min: 15
+    max: 28
     step: 0.1
     initial: 20
   external_sensor:
